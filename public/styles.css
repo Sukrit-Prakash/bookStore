@@ -1,0 +1,10 @@
+.navbarx{
+    display: flex;
+    padding: 16px;
+    justify-content: space-around;
+}
+.navmenu{
+    display:flex;
+    padding:16px;
+    justify-content:space-around;
+}
