@@ -1,0 +1,45 @@
+/* .handicon{
+    height:200px;
+    width:200px;
+    margin:2px;
+    justify-content: center;
+     */
+/* } */
+.img2{
+    display: flex;
+    position:relative;
+    height:500px;
+    width:400px;
+    opacity :0.8;
+}
+.hero{
+    display:flex;
+    position: relative;
+    background-color:light grey;
+    opacity: 0.5;
+    width:1000px;
+    height:500px;
+    
+}
+.hero-left{
+    flex:1;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    gap:20px;
+    line-height:1.1;
+}
+.hero-right{
+    flex:1;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    gap:20px;
+    line-height:1.1;
+}
+.imgx{
+    height:70px;
+    width:70px;
+    margin:2px;
+    justify-content: center;
+}

@@ -8,3 +8,19 @@
     padding:16px;
     justify-content:space-around;
 }
+.imgx{
+    height:20px;
+    width:20px;
+}
+.logincart button{
+    height:30px;
+    width:100px;
+    border-radius: 75px;
+    outline:none;
+    border:1px solid violet;
+    cursor: pointer;
+    background-color: antiquewhite;
+}
+.logincart button:active{
+    background-color: aquamarine;
+}

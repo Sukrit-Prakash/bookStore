@@ -1,0 +1,21 @@
+.items{
+    width:350px;
+}
+.item-prices{
+display:flex;
+gap:20px;
+}
+.item-price-new{
+    color: aliceblue;
+    font-size: 15px;
+    font-weight: 200;
+}
+.item-price-old{
+    color:aqua;
+    font-size: 15px;
+    font-weight: 300;
+}
+.items:hover{
+    transform: scale(1.05);
+    transition: 0.4s;
+} 
